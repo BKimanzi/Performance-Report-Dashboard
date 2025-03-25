@@ -16,7 +16,7 @@ This Power BI report provides in-depth performance analysis, including key KPIs,
 📂 **How to Use**  
 1. Download the `.pbix` file from this repository.  
 2. Open it in **Power BI Desktop**.  
-3. Connect your data sources (if needed) and explore insights.  
+3. Download the dataset and connect your data sources (if needed) and explore insights.  
 
 🔗 **Connect with Me**  
 - [GitHub](https://github.com/BKimanzi)  
